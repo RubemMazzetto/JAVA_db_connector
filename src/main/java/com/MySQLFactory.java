@@ -1,5 +1,3 @@
-package com.exercicio;
-
 public class MySQLFactory extends AbstractDatabaseFactory {
     public MySQLFactory(String url, String username, String password) {
         super(url, username, password);

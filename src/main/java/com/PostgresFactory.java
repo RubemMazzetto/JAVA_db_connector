@@ -1,5 +1,3 @@
-package com.exercicio;
-
 public class PostgresFactory extends AbstractDatabaseFactory {
     public PostgresFactory(String url, String username, String password) {
         super(url, username, password);

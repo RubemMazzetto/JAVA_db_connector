@@ -1,5 +1,3 @@
-package com.exercicio;
-
 import java.sql.Connection;
 import java.sql.SQLException;
 
